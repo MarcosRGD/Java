@@ -3,7 +3,7 @@ package com.itbulls.gomez;
 /**
  * Hello World Application
  * 
- * @author Hulk
+ * @author Hulk Marcos Gomez
  *
  */
 public class HelloWorld {
